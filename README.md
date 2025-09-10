@@ -47,4 +47,4 @@ Business Impact & Insights
 🏆 Identifies peak months for memberships, aiding in resource planning
 
 Screenshots / Demo Preview
-[!Dashboard Preview](https://github.com/TusharKundekar/Power-BI-Fitness-Dashboard/blob/main/Fitness%20Dashboard%20Snapshot.jpg)
+![Dashboard Preview](https://github.com/TusharKundekar/Power-BI-Fitness-Dashboard/blob/main/Fitness%20Dashboard%20Snapshot.jpg)
