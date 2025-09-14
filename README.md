@@ -1,5 +1,8 @@
 # Fitness-Dashboard 💪 Fitness Dashboard 🏋️‍♂️
 
+![Dashboard Preview](https://github.com/TusharKundekar/Power-BI-Fitness-Dashboard/blob/main/Fitness%20Dashboard%20Snapshot.jpg)
+
+
 An interactive dashboard designed to track fitness activities, memberships, and financial performance for gyms. Provides real-time insights into revenue, expenses, memberships, and monthly trends, helping gym owners manage their business efficiently.
 
 Short Description / Purpose
@@ -45,6 +48,3 @@ Business Impact & Insights
 💡 Helps fitness centers optimize membership plans based on active vs expired trends
 📊 Provides clear insights into financial performance for strategic decision-making
 🏆 Identifies peak months for memberships, aiding in resource planning
-
-Screenshots / Demo Preview
-![Dashboard Preview](https://github.com/TusharKundekar/Power-BI-Fitness-Dashboard/blob/main/Fitness%20Dashboard%20Snapshot.jpg)
